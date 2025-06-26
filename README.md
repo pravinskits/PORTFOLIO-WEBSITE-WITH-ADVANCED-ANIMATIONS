@@ -30,3 +30,5 @@ The page includes:
 Animations are applied to the header, hero elements, and project cards using GSAP and ScrollTrigger to enhance the visual appeal and user experience. The CSS includes hover effects, transitions, and a gradient background for a polished, modern look.
 
 *Output*:
+
+![Image](https://github.com/user-attachments/assets/fc485e8a-722c-4687-96d3-abbecbe6c359)
